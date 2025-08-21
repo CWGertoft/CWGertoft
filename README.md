@@ -10,8 +10,10 @@
 💻 Languages: `JavaScript` `Typescript` `HTML` `CSS`  
 ⚙️ Backend: `Node.js` `Express` `REST APIs` *(current focus)*  
 🗄️ Databases: `MongoDB` `SQL` `PostgreSQL` *(exploring)*  
-🌐 Frontend: `React` `Next.js` `TailwindCSS` *(exploring)* 
-🛠️ Other: `Git` `GitHub` `VS Code`  
+🌐 Frontend: `React` `Next.js` `TailwindCSS` *(exploring)*
+
+🛠 Other: `Github` `Gitlab` `VS Code` `Trello`
+ 
 
 ---
 
