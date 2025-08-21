@@ -9,8 +9,8 @@
 ## 🔧 Technologies & Tools (learning & working with)  
 💻 Languages: `JavaScript` `Typescript` `HTML` `CSS`  
 ⚙️ Backend: `Node.js` `Express` `REST APIs` *(current focus)*  
-🛢️ Databases: `MongoDB` `SQL` `PostgreSQL` *(exploring)*  
-🌐 Frontend: `React` `Next.js` `TailwindCSS`
+🗄️ Databases: `MongoDB` `SQL` `PostgreSQL` *(exploring)*  
+🌐 Frontend: `React` `Next.js` `TailwindCSS` *(exploring)* 
 🛠️ Other: `Git` `GitHub` `VS Code`  
 
 ---
