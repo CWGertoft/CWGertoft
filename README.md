@@ -1,16 +1,16 @@
 # 👋 Hi, I’m @CWGertoft  
 
 👀 I’m interested in **tech**, **sustainability**, and **food** 🌍🍲  
-🌱 I’m currently diving into **backend development** as part of my **Fullstack JavaScript education**.  
+🌱 I’m currently working on a project which you can read more about on sspo.se
 📫 Best way to reach me is via [LinkedIn – William Gertoft](https://www.linkedin.com/in/william-gertoft)  
 
 ---
 
 ## 🔧 Technologies & Tools (learning & working with)  
 💻 Languages: `JavaScript` `Typescript` `HTML` `CSS`  
-⚙️ Backend: `Node.js` `Express` `REST APIs` *(current focus)*  
-🗄️ Databases: `MongoDB` `SQL` `PostgreSQL` *(exploring)*  
-🌐 Frontend: `React` `Next.js` `TailwindCSS` *(exploring)*
+⚙️ Backend: `Node.js` `Express` `Python` `Go` `REST APIs`  
+🗄️ Databases: `MongoDB` `Supabase` `SQL` `PostgreSQL`  
+🌐 Frontend: `React` `Next.js` `TailwindCSS` 
 
 🛠 Other: `Github` `Gitlab` `VS Code` `Trello`
  
