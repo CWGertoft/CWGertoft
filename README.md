@@ -1,7 +1,8 @@
 # 👋 Hi, I’m @CWGertoft  
 
 👀 I’m interested in **tech**, **sustainability**, and **food** 🌍🍲  
-🌱 I’m currently working on a project which you can read more about on sspo.se
+🌱 I’m currently working on a project which you can read more about on sspo.se 
+
 📫 Best way to reach me is via [LinkedIn – William Gertoft](https://www.linkedin.com/in/william-gertoft)  
 
 ---
