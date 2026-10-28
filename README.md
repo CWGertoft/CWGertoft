@@ -38,7 +38,7 @@
 
 ---
 
-### 🔹 [Cemio](https://github.com/CWGertoft/Clemio) (Ongoing Project)
+### 🔹 [Clemio](https://github.com/CWGertoft/Clemio) (Ongoing Project)
 
 📖 A B2B platform for trade businesses, with support for groundworks and construction projects, to create accurate cost estimates and professional quotations faster. Clemio is not a marketplace: every company retains ownership of its customers, price libraries, and calculations. AI assists with structure and review, but never sets prices or changes a calculation without explicit user approval.
 
